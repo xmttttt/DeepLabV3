@@ -28,7 +28,10 @@ python train.py
 
 测试时使用的文件为 eval.py，包括 IOU 与 Boundary IOU 的计算函数和使用测试集进行测试的主函数。
 
-测试前需要将已训练好的权重文件 best.pth 置于 weights 文件夹下（已附在代码库中）。
+测试前需要将已训练好的权重文件 best.pth 置于 weights 文件夹下。
+
+链接：https://pan.baidu.com/s/1pRxJnb-cHEJuuvacXDHl1A 
+提取码：552l
 
 然后直接运行 eval.py 即可
 
