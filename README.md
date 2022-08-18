@@ -2,7 +2,7 @@
 
 下载 Weizmann Horse 数据集（https://www.kaggle.com/datasets/ztaihong/weizmann-horse-database/metadata），并置于 Datasets 文件夹中，按照如下格式：
 
-![image-20220818163454760](C:\Users\xmttttt\AppData\Roaming\Typora\typora-user-images\image-20220818163454760.png)
+![image-20220818163454760](./format.png)
 
 (由于代码中使用 torchvision.datasets.ImageFolder 进行数据集导入，故需要两级目录)
 
